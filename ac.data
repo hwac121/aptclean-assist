@@ -1,0 +1,3 @@
+#!/bin/bash
+
+cd /home/hwac121/MyApps/aptsources-cleanup && ./apt-cleanup.sh
