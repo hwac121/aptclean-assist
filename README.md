@@ -12,7 +12,7 @@ python3-apt
 
 INSTALLATION INSTRUCTIONS
 
-You will need to get the current release of the aptcourses-cleanup PYZ bundle for this to work. The file you need to download is '' and it is required by this script. The file 'aptsources-cleanup.pyz' is the actual appication and this script simply sets up a quick link shortcut for you so that you may just type 'aptclean' anywhere in a terminal to call upon the application.
+You will need to get the current release of the aptcourses-cleanup PYZ bundle for this to work. The file you need to download is 'aptsources-cleanup.pyz' and it is required by this script. The file 'aptsources-cleanup.pyz' is the actual appication and this script simply sets up a quick link shortcut for you so that you may just type 'aptclean' anywhere in a terminal to call upon the application.
 
 I have made this part of my installs setup now so this very annoying error can be fixed by David Foerster's nice little application quickly and easily.
 
