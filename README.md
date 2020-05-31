@@ -17,9 +17,7 @@ You will need to get the current release of the aptcourses-cleanup PYZ bundle fo
 I have made this part of my installs setup now so this very annoying error can be fixed by David Foerster's nice little application quickly and easily.
 
 1. Install the 'aptclean-assist' script.
-2. Grab the latest copy of aptsources-cleanup.pyz from here:
-
-https://github.com/davidfoerster/aptsources-cleanup/releases/latest
+2. Grab the latest copy of aptsources-cleanup.pyz from here: https://github.com/davidfoerster/aptsources-cleanup/releases/latest
 3. Just drop the file 'aptsources-cleanup.pyz' inside the aptclean-assist folder.
 4. Now chmod +x setup.sh
 5. now run the setup bash file with ./setup.sh
